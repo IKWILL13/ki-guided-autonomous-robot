@@ -53,3 +53,5 @@ Add the Sensors 'not sure if the codes need a fix' but is not necessary for our 
 Thanks to Grok for the guidance along the way! 🛠️❤️  
 
 Facebook: [Ki William] : https://www.facebook.com/KiWilliamOfficial/
+
+CHEECK if Curious - ELLIE WILLIAMS - CHAT 3D AI in Real TIME : https://www.facebook.com/KiWilliamOfficial/posts/pfbid02ckwtsggVim1PuFSTqFo1StdRzMUCkrTrozJkCXB8ohim7dyX7WXRgCJNyeGgnmoEl
