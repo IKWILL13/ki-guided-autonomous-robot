@@ -29,5 +29,27 @@ Feel free to fork, rebuild, fix the sensors, calibrate turns (reduce power to ~3
 
 All files are shared to save others time and to help beginners learn the messy real process.
 
+
+FILES LINK : https://mega.nz/folder/HMEV2SpI#3rnfqE3ZJZFp212qDZV7Xw
+
+
+WORK FLOW : 
+
+Update day 1 - After buy the components : Install Fusion and 
+Update day 2 - (continuative work flow build the 3D) 
+Update day 3 - Ai seem clueless or confused... I am building the motors and all structure after doing the 3D model.
+Update day 4 - Waiting the components
+Update day 5 - Doing Support for 3D Stamp in Pla
+Update day 6 - Today finally able to build all
+Update day 7 - Today i build all
+Update day 8 - Cables side 'Power', study on energy Power cables, System cables,
+Update day 9 - Today i attach some energy cable, it seem ok
+Update day 10 - Today all the electricity work
+Update day 11 - Today i try do the second type of connections but motors not working.
+Update day 12 - (After use Ide and Settings Raspberry) - I fix the Same Motors, they work ! so is not necessary change them. 
+Update day 13 - We end the Projeckt - Today we Charge the lipo, do the final test the Commands without the cable - and test it. 
+Add the Sensors 'not sure if the codes need a fix' but is not necessary for our Projecekt - FASE 'A' ENDED
+
 Thanks to Grok for the guidance along the way! 🛠️❤️  
-Questions / improvements? Just comment or tag @kiwilliam__.
+
+
