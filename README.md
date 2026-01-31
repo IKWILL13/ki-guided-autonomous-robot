@@ -379,3 +379,4 @@ if __name__ == '__main__':
 
 Important Note: These codes match your cable polarity and configuration. If motors spin wrong, swap IN1/IN2 or IN3/IN4 wires. Upload, test all features, and enjoy the upgraded robot! If issues arise, share error logs
 
+IF YOU HAVE ANY TROUBLE : FOR APPLY THE UPDATE - COPY ALL THIS CODES AND PASTE ON AI TO REWRITE THE SAME CODES CORRECTLY - APPLY THEN TO YOUR WORK FLOW 'ROBOT
